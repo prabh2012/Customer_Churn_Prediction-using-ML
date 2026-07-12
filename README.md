@@ -40,6 +40,7 @@ Telco Customer Churn Dataset containing customer demographics, account informati
 
 ## Project Structure
 
+
 Customer-Churn-Prediction/
 │── models/
 │   ├── churn_model.pkl
