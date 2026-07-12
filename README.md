@@ -3,6 +3,12 @@
 Predict whether a telecom customer is likely to churn using Machine Learning. This project is built with **Python**, **Flask**, **Scikit-learn**, and **Bootstrap**, providing a modern web interface where users can enter customer details and receive real-time churn predictions with a confidence score.
 
 ---
+## 🌐 Live Demo
+
+🔗 **Live Application:**  
+https://customer-churn-prediction-using-ml-1.onrender.com/
+
+---
 
 ## 🚀 Project Overview
 
